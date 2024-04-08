@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:shop_app_with_sm/models/product.dart';
-import 'package:shop_app_with_sm/models/shop.dart';
+import '../models/product.dart';
+import '../models/shop.dart';
 
 class MyProductTile extends StatelessWidget {
   final Product product;
